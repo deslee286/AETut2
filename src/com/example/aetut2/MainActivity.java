@@ -1,3 +1,4 @@
+// this is a comment
 package com.example.aetut2;
 
 import org.andengine.AndEngine;
